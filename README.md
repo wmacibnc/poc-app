@@ -1,2 +1,2 @@
 # poc-app
-Prova de conecieto App com Ionic
+Prova de conceito App com Ionic
